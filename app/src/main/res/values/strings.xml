@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ConcertTicket</string>
+    <string name="name_or_email">Email/User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Registration</string>
+    <string name="user_name">User name</string>
+    <string name="email">Email</string>
+    <string name="re_password">Password again</string>
+    <string name="cancel">Cancel</string>
+    <string name="alestorm">Alestorm</string>
+    <string name="amon_amarth">Amon Amarth</string>
+    <string name="paddy_and_the_rats">Paddy and the Rats</string>
+    <string name="raubtier">Raubtier</string>
+    <string name="thy_art_is_murder">Thy Art is Murder</string>
+    <string name="available_tickets">Available Tickets</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="concert_title">Concert Title</string>
+    <string name="description">Description</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="delete">Delete</string>
+    <string name="dontwanna">Not interested</string>
+
+    <array name="concert_ticket_title">
+        <item>Alestorm</item>
+        <item>Amon Amarth</item>
+        <item>Paddy and the Rats</item>
+        <item>Raubtier</item>
+        <item>Thy Art is Murder</item>
+    </array>
+
+    <array name="concert_ticket_description">
+        <item>Alestorm is coming to town on 20th of August</item>
+        <item>Amon Amarth is on his best tour</item>
+        <item>Paddy and the Rats new album concert soon</item>
+        <item>Raubtier in Moscow</item>
+        <item>Thy Art is Murder early bird ticket</item>
+    </array>
+
+    <array name="concert_ticket_price">
+        <item>50 euro</item>
+        <item>35 euro</item>
+        <item>15 euro</item>
+        <item>35 euro</item>
+        <item>25 euro</item>
+    </array>
+
+    <array name="concert_ticket_images">
+        <item>@drawable/alestorm</item>
+        <item>@drawable/amon_amarth</item>
+        <item>@drawable/paddy_and_the_rats</item>
+        <item>@drawable/raubtier</item>
+        <item>@drawable/thy_art_is_murder</item>
+    </array>
+
+</resources>
